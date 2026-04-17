@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🇧🇩 Bangladesh Banknote Detection in Real Life using YOLOv8
+#  Bangladesh Banknote Detection in Real Life using YOLOv8
 
 Detect Bangladesh currency notes in real-time using **YOLOv8**, **OpenCV**, and **Deep Learning**.
 
